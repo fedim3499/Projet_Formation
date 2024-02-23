@@ -1,0 +1,19 @@
+{
+  "name": "projet_formation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap ",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
